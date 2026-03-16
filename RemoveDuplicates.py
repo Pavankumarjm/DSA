@@ -1,6 +1,6 @@
-def removeDuplicates(nums):
+def RemoveDuplicates(nums):
     k=1
-    for i in range(1, len(nums)):
+    for i in range(nums):
         if nums[i]!=nums[i-1]:
             nums[k]=nums[i]
             k+=1
