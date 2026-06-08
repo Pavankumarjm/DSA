@@ -8,4 +8,4 @@ while(n>0):
 if (pal==rev):
     print("palindrome number")
 else:
-    print("not a palindrome")    
+    print("not a palindrome")  
