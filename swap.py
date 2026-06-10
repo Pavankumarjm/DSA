@@ -1,5 +1,5 @@
-num1=10
-num2=20
+num1=40
+num4=25
 print("value before swap:", num1)
 print("value before swap", num2)
 
