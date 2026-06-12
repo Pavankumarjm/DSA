@@ -3,4 +3,4 @@ search=50
 if search in list:
     print("found!")
 else:
-    print("not Found")    
+    print("not found");  
