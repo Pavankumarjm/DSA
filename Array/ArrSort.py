@@ -10,4 +10,4 @@ for i in range(len(arr)-1):
 if flag:
     print("Array is Sorted")
 else:
-    print("Array is Not Sorted")
+    print("array is not sorted");
