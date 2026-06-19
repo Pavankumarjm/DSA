@@ -11,5 +11,4 @@ for i in range(k):
         arr[j] = arr[j-1]
 
     arr[0] = last
-
-print(arr)
+print(arr);
