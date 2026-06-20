@@ -9,5 +9,4 @@ for i in arr:
         largest = i
     elif i > second and i != largest:
         second = i
-
 print("Second Largest:", second)
