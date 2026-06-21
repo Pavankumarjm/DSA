@@ -28,7 +28,6 @@ def merge_sort(arr):
             j += 1
             k += 1
 arr = [12, 11, 13, 5, 6, 7]
-
 merge_sort(arr)
 
-print("Sorted array:", arr)
+print("Sorted array:", arr);
