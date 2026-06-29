@@ -19,4 +19,4 @@ for i in range(len(roman)):
     else:
         total += values[roman[i]]
 
-print(total)
+print(total);
