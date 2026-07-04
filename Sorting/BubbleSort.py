@@ -1,4 +1,4 @@
-arr=[50,10,40,65,25,35,2]
+arr=[50,20,10,75,23,55,4]
 n=len(arr)
 for i in range (n):
     for j in range(0,n-i-1):
