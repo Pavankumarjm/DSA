@@ -7,4 +7,4 @@ if num>1:
         if count ==2:
            print("number is prime")
         else:
-           print("not a prime number");  
+           print("not a prime number");
