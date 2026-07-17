@@ -4,7 +4,7 @@ largest = arr[0]
 
 for i in arr:
     if i > largest:
-        largest = i
+        largest = i;
 
 
-print("Largest number:", largest)
+print("Largest number:", largest);
