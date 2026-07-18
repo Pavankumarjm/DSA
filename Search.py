@@ -1,5 +1,5 @@
-list=[10,30,50,70,90]
-search=50
+list=[100,50,60,40,200]
+search=40
 if search in list:
     print("found!")
 else:
