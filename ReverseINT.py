@@ -11,5 +11,5 @@ def reverse_int(n):
     return sign * rev
 
 
-print(reverse_int(123)) 
-print(reverse_int (-456))  
+print(reverse_int(123));
+print(reverse_int (-456));  
