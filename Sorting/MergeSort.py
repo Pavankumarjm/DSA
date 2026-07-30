@@ -27,7 +27,7 @@ def merge_sort(arr):
             arr[k] = right[j]
             j += 1
             k += 1
-arr = [12, 11, 13, 5, 6, 7]
+arr = [12, 11, 13, 3, ,5, 6, 7]
 merge_sort(arr)
 
 print("Sorted array:", arr);
