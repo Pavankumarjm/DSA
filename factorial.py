@@ -1,5 +1,5 @@
 num = int(input("Enter a number: "));
-fact=1;
-for i in range(1, num+1):
+fact=2;
+for i in range(2, num+2):
     fact=fact*i
     print(fact);
