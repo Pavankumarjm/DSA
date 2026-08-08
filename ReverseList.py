@@ -1,3 +1,3 @@
-list=[10,20,30,40,50,60]
+list=[20,40,60,80,100,120,140,]
 reversed_list=list[::-1]
 print(reversed_list);
